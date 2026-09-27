@@ -3,3 +3,7 @@ gunicorn
 groq
 requests
 numpy
+openwakeword 
+sounddevice 
+SpeechRecognition
+pyttsx3
