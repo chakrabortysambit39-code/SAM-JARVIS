@@ -1,0 +1,10 @@
+Flask
+requests
+groq
+numpy
+sounddevice
+SpeechRecognition
+pyttsx3
+openwakeword
+onnxruntime
+PyAudio
