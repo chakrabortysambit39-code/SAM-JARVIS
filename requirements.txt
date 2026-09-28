@@ -1,9 +1,10 @@
-flask
-gunicorn
-groq
+Flask
 requests
+groq
 numpy
-openwakeword 
-sounddevice 
+sounddevice
 SpeechRecognition
 pyttsx3
+openwakeword
+onnxruntime
+PyAudio
